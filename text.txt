@@ -1,0 +1,10 @@
+npm install 
+npm install react-navigation
+npm install react-navigation-tabs
+npm install react-native-reanimated react-native-gesture-handler
+
+git init 
+git add .
+git commit -m 'hello'
+git remote add test url
+git push -u test
